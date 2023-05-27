@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT Next Web</h1>
+<h1 align="center">TruthGPT</h1>
 
 English / [简体中文](./README_CN.md)
 
@@ -9,13 +9,13 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 一键免费部署你的私人 ChatGPT 网页应用。
 
-[Demo](https://chatgpt.nextweb.fun/) / [Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Demo](https://chatgpt.truthai.fun/) / [Issues](https://github.com/TruthAIOrg/truthgpt/issues) / [Buy Me a Coffee](https://img.ifree258.top/14-GRZL/142-GRTP/1424-GZHXG/Alipay-receipt-code.jpeg)
 
-[演示](https://chatgpt.nextweb.fun/) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[演示](https://chatgpt.truthai.fun/) / [反馈](https://github.com/TruthAIOrg/truthgpt/issues) / [社群组建中] / [打赏开发者](https://img.ifree258.top/14-GRZL/142-GRTP/1424-GZHXG/Wechat-receipt-code.jpeg)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TruthAIOrg/truthgpt&env=OPENAI_API_KEY&env=CODE&project-name=truthgpt&repository-name=truthgpt)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TruthAIOrg/truthgpt)
 
 ![cover](./docs/images/cover.png)
 
@@ -35,13 +35,13 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/TruthAIOrg/truthgpt/issues/138)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/TruthAIOrg/truthgpt/issues/993)
+- [x] Share as image, share to ShareGPT [#1741](https://github.com/TruthAIOrg/truthgpt/pull/1741)
 - [ ] Desktop App with tauri
 - [ ] Self-host Model: support llama, alpaca, ChatGLM, BELLE etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/TruthAIOrg/truthgpt/issues/165)
 
 ### Not in Plan
 
@@ -68,13 +68,13 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## 开发计划
 
-- [x] 为每个对话设置系统 Prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] 为每个对话设置系统 Prompt [#138](https://github.com/TruthAIOrg/truthgpt/issues/138)
 - [x] 允许用户自行编辑内置 Prompt 列表
-- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://github.com/TruthAIOrg/truthgpt/issues/993)
+- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/TruthAIOrg/truthgpt/pull/1741)
 - [ ] 使用 tauri 打包桌面应用
 - [ ] 支持自部署的大语言模型
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/TruthAIOrg/truthgpt/issues/165)
 
 ### 不会开发的功能
 
@@ -83,7 +83,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## 最新动态
 
-- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
+- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/TruthAIOrg/truthgpt/issues/138)。
 - 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
 - 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
 
@@ -92,8 +92,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 > [简体中文 > 如何开始使用](./README_CN.md#开始使用)
 
 1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
-2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
+2. Click [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TruthAIOrg/truthgpt&env=OPENAI_API_KEY&env=CODE&project-name=truthgpt&repository-name=ChatGPT-Next-Web) , remember that `CODE` is your page password;
 3. Enjoy :)
 
 ## FAQ
@@ -182,7 +181,7 @@ If you do not want users to use GPT-4, set this value to 1.
 
 > [简体中文 > 如何进行二次开发](./README_CN.md#开发)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TruthAIOrg/truthgpt)
 
 Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
 
@@ -207,12 +206,12 @@ yarn dev
 ### Docker (Recommended)
 
 ```shell
-docker pull yidadaa/chatgpt-next-web
+docker pull yidadaa/truthgpt
 
 docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY="sk-xxxx" \
    -e CODE="your-password" \
-   yidadaa/chatgpt-next-web
+   yidadaa/truthgpt
 ```
 
 You can start service behind a proxy:
@@ -222,7 +221,7 @@ docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY="sk-xxxx" \
    -e CODE="your-password" \
    -e PROXY_URL="http://localhost:7890" \
-   yidadaa/chatgpt-next-web
+   yidadaa/truthgpt
 ```
 
 ### Shell
@@ -237,41 +236,15 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 
 ![More](./docs/images/more.png)
 
-## Donation
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
-
 ## Special Thanks
 
 ### Sponsor
 
-> 仅列出捐赠金额 >= 100RMB 的用户。
-
-[@mushan0x0](https://github.com/mushan0x0)
-[@ClarenceDan](https://github.com/ClarenceDan)
-[@zhangjia](https://github.com/zhangjia)
-[@hoochanlon](https://github.com/hoochanlon)
-[@relativequantum](https://github.com/relativequantum)
-[@desenmeng](https://github.com/desenmeng)
-[@webees](https://github.com/webees)
-[@chazzhou](https://github.com/chazzhou)
-[@hauy](https://github.com/hauy)
-[@Corwin006](https://github.com/Corwin006)
-[@yankunsong](https://github.com/yankunsong)
-[@ypwhs](https://github.com/ypwhs)
-[@fxxxchao](https://github.com/fxxxchao)
-[@hotic](https://github.com/hotic)
-[@WingCH](https://github.com/WingCH)
-[@jtung4](https://github.com/jtung4)
-[@micozhu](https://github.com/micozhu)
-[@jhansion](https://github.com/jhansion)
-[@Sha1rholder](https://github.com/Sha1rholder)
-[@AnsonHyq](https://github.com/AnsonHyq)
-[@synwith](https://github.com/synwith)
+[Yidadaa](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 ### Contributor
 
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
+[Contributors](https://github.com/TruthAIOrg/truthgpt/graphs/contributors)
 
 ## LICENSE
 
